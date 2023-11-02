@@ -1,0 +1,7 @@
+* allavocado
+
+This is a description of my allavocado.
+
+** Usage
+
+To use my project, run this command: ./myproject --verbose
